@@ -2,4 +2,4 @@
 Movie ticket booking system using c++
 
 1:
-<img src="Images/1.png"  width="150"/>  
+<img src="Images/1.png"  width="350"/>  
