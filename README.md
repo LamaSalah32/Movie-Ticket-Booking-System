@@ -1,9 +1,9 @@
 # Movie ticket booking system using c++
 
-| <img src="https://media2.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="250">  | <img src="https://media3.giphy.com/media/Id71NFYfSBOKv2IexE/giphy.gif" width="250"> | 
-
 #### 1: Main page <br> <br>
 <img src="Images/1.png"  width="400"/>  
+
+| <img src="https://media2.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="250">  | <img src="https://media3.giphy.com/media/Id71NFYfSBOKv2IexE/giphy.gif" width="250"> | 
 
 #### 2: Movie Release Dates <br> <br>
 <img src="Images/2.png"  width="400"/>  
