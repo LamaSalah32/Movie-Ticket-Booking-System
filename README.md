@@ -3,7 +3,7 @@
 #### 1: Main page <br> <br>
 <img src="Images/1.png"  width="430"/>  
 
-| <img src="https://media2.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="201">  | <img src="https://media3.giphy.com/media/Id71NFYfSBOKv2IexE/giphy.gif" width="201"> | 
+| <img src="https://media2.giphy.com/media/3ohjV6G9UwkB190zbq/giphy.gif" width="202">  | <img src="https://media3.giphy.com/media/Id71NFYfSBOKv2IexE/giphy.gif" width="202"> | 
 
 #### 2: Movie Release Dates <br> <br>
 <img src="Images/2.png"  width="430"/>  
